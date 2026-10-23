@@ -1,5 +1,5 @@
 
-## 3. What is time complexity?
+# 1. What is time complexity?
 
 **Time complexity describes how the amount of work an algorithm performs changes as the input size increases.**
 
@@ -29,7 +29,7 @@ Time complexity does **not** directly tell us how many seconds the code takes to
 
 ---
 
-## 4. How can we assess time complexity?
+## 2. How can we assess time complexity?
 
 For beginners, a useful starting point is to count how many times an important operation runs, then consider how that count changes as the input grows.
 
@@ -102,7 +102,7 @@ The number of iterations grows slowly as the input increases, because the value 
 
 ---
 
-## 5. Compare how the work grows
+## 3. Compare how the work grows
 
 The following table shows representative operation counts for each pattern. For the logarithmic column, it shows `log₂(n)` as a guide; the exact number of iterations in a loop can differ slightly depending on its stopping condition.
 
@@ -119,7 +119,7 @@ The key observation is that different algorithms can respond very differently to
 
 ---
 
-## 6. A simple checklist for analysing time complexity
+## 4. A simple checklist for analysing time complexity
 
 When you look at a piece of code, ask:
 
