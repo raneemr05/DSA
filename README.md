@@ -12,7 +12,6 @@ By the end of this lesson, you should be able to:
 - Recognise common time-complexity patterns in code.
 - Use a simple checklist to begin analysing time complexity.
 
----
 
 ## 1. What is complexity? 😨
 
@@ -42,7 +41,7 @@ In programming, we ask similar questions:
 
 For now, focus on **how the requirements grow**, rather than the exact number of seconds or bytes used.
 
----
+
 
 ## 2. Why does complexity matter? 🤔
 
@@ -106,15 +105,15 @@ Big O can also describe bounds for best-case or average-case analysis.
 
 Want to understand what **O(1)**, **O(log n)**, **O(n)** and **O(n²)** look like in code?
 
-Continue to the [Big O Examples Repository], where we explore common growth patterns through practical examples.
+Continue to the [Big O Examples Repository](../Time_Space_Complexity/BigO-examples/ReadME.md), where we explore common growth patterns through practical examples.
 
 ## Continue Learning
 
-- [Time Complexity](../Time_Space_Complexity/time_complexity/README.md)
-- [Space Complexity](../Time_Space_Complexity/space_complexity/README.md)
+- [Time Complexity](../time_complexity/README.md)
+- [Space Complexity](../space_complexity/README.md)
 - [BigO](../Time_Space_Complexity/BigO-examples/ReadME.md)
 
----
+
 
 ## Key takeaways 😃
 
